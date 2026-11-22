@@ -1,0 +1,8 @@
+{
+  "name": "ShelfSync",
+  "description": "Modern Indian e-commerce platform powered by Aiven PostgreSQL, Apache Kafka, OpenSearch, Razorpay, Gemini AI, and Meta WhatsApp Cloud API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
